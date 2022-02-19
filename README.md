@@ -9,23 +9,7 @@ Language Processing. NLTK requires Python version 3.7, 3.8, 3.9 or 3.10.
 For documentation, please visit [nltk.org](https://www.nltk.org/).
 
 
-## Contributing
-
-Do you want to contribute to NLTK development? Great!
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
-See also [how to contribute to NLTK](https://www.nltk.org/contribute.html).
-
-
-## Donate
-
-Have you found the toolkit helpful?  Please support NLTK development by donating
-to the project via PayPal, using the link on the NLTK homepage.
-
-
-## Citing
-
-If you publish work that uses NLTK, please cite the NLTK book, as follows:
+## Citation
 
     Bird, Steven, Edward Loper and Ewan Klein (2009).
     Natural Language Processing with Python.  O'Reilly Media Inc.
